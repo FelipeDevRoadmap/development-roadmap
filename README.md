@@ -10,13 +10,17 @@ This roadmap serves as a guide through the technologies and concepts I’ve mast
 
 | Period       | Bootcamp/Course                | Status        | Project Repo            | Technologies         |
 |--------------|--------------------------------|---------------|-------------------------|----------------------|
-| 2024 - Q1    | Generation Java Fullstack      | Completed     | [Project Link](https://github.com/felipemacedo1/spring-blog-platform) | Java, Spring Boot     |
+| 2023 - Q1    | ProzTech Bootcamp Front-end web developer         | Completed       | [Project Link](https://github.com/felipemacedo1/html-supplement-ecommerce)                        | Web developer, HTML, CSS, JS      |
+| 2024 - Q1    | Generation Java Fullstack      | Completed     | [Project Link](https://github.com/felipemacedo1/spring-blog-platform) | Java, Spring Boot, React, TypeScript     |
 | 2024 - Q1-Q3 | Fintech Experience             | Worked        |                         | Go, AWS, Docker, Microservices |
 | 2024 - Q3    | Binance Blockchain Bootcamp    | Completed     | [NFT Project](https://github.com/felipemacedo1/solidity-coinlink-token/tree/main/nft-pokemon) | Blockchain, Solidity  |
 | 2024 - Q4    | AWS Dev Web-Cloud              | In Progress   | [Repositories](https://github.com/felipemacedo1/solidity-coinlink-token/tree/main/nft-pokemon) | DevOps, AWS           |
 | 2024 - Q4    | Cryptography Advanced          | In Progress   | [Project Link](https://github.com/shem-org/CryptoTool) | Cryptography, Go      |
 <!--
-| 2025 - Q4    | Cryptography Advanced          | Planned       |                         | Cryptography, Go      |
+
+| 2025 - Q2    | Cryptography Advanced          | Planned       |                         | Cryptography, Go      |
+
+  
 -->
 
 ## 🏆 Certifications
