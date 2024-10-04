@@ -10,13 +10,13 @@ This roadmap serves as a guide through the technologies and concepts I’ve mast
 
 | Period       | Bootcamp/Course                | Status        | Project Repo            | Technologies         |
 |--------------|--------------------------------|---------------|-------------------------|----------------------|
-| 2023 - Q1    | ProzTech Bootcamp Front-end web developer         | Completed       | [Project Link](https://github.com/felipemacedo1/html-supplement-ecommerce)                        | Web developer, HTML, CSS, JS      |
+| 2023 - Q1    | ProzTech Bootcamp Front-end web developer         | Completed       |                         | Web developer, HTML, CSS, JS      |
 | 2024 - Q1    | Generation Java Fullstack      | Completed     | [Project Link](https://github.com/felipemacedo1/spring-blog-platform) | Java, Spring Boot, React, TypeScript     |
 | 2024 - Q1-Q3 | Fintech Experience             | Worked        |                         | Go, AWS, Docker, Microservices |
 | 2024 - Q3    | Binance Blockchain Bootcamp    | Completed     | [NFT Project](https://github.com/felipemacedo1/solidity-coinlink-token/tree/main/nft-pokemon) | Blockchain, Solidity  |
 | 2024 - Q4    | AWS re-start              | In Progress   | [Repositories](https://github.com/felipemacedo1/) | DevOps, AWS           |
-| 2024 - Q4    | Generation AWS Devops              | In Progress   | [Repositories](https://github.com/felipemacedo1/) | DevOps, AWS           |
 | 2024 - Q4    | Cryptography Advanced          | In Progress   | [Project Link](https://github.com/shem-org/CryptoTool) | Cryptography, Go      |
+<!--| 2024 - Q4    | Generation AWS Devops              | In Progress   | [Repositories](https://github.com/felipemacedo1/) | DevOps, AWS           | -->
 <!--
 
 | 2025 - Q2    | Cryptography Advanced          | Planned       |                         | Cryptography, Go      |
@@ -28,9 +28,10 @@ This roadmap serves as a guide through the technologies and concepts I’ve mast
 
 Here are some of the certifications I’ve earned through my journey:
 
-- [ProzTech Font-end developer](#)
-- [Generation Fullstack Bootcamp](#)
-- [Blockchain & DLT Foundations](#)
+- [ProzTech Font-end developer](https://drive.google.com/file/d/1nqb5BlaprIN0KFG-JzWvuJngsUqSq3NW/view)
+- [Blockchain Binance Bootcamp](https://hermes.dio.me/certificates/NJN7GKXL.pdf)
+- [Generation Fullstack Bootcamp](https://e-certificado.com/login/visualizar?c=2048568A089F418113357740)
+- [Bootcamp AWS Re-start](#) - in progress
 - [AWS Certified Developer](#) - in progress
 
 ## 🛠️ Current Focus
@@ -51,5 +52,6 @@ Stay tuned for more updates as I continue to grow and develop in the field of te
 
 Feel free to check out my other projects and follow my journey:
 
+- [My GitHub Organization](https://github.com/shem-org)
 - [GitHub](https://github.com/felipemacedo1)
 - [LinkedIn](https://www.linkedin.com/in/felipemacedo1/)
